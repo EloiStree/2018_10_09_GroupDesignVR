@@ -8,7 +8,7 @@ nathan,Fredo,nico...
 
 
 ## Image & Screeshot
-![a](vr sex suit components.jpg)
+![a](vr-sex-suit-components.jpg)
 
 ## Video
 __Insert video links and playlist on the subject__
